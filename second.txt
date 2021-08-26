@@ -1,1 +1,2 @@
 content of second
+- add from the clone
